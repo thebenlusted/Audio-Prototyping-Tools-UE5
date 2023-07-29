@@ -76,3 +76,4 @@ DerivedDataCache/*
 GameAudioTools/Saved/*
 GameAudioTools/Intermediate/*
 GameAudioTools/DerivedDataCache/*
+GameAudioTools/Platforms/HoloLens/*
