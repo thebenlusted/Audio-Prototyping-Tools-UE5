@@ -4500,3 +4500,1564 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.28-23.57.43:798][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2023.07.28-23.57.44:877][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.07.28-23.57.44:878][775]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.01.31:432][338]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.29-00.01.42:651][415]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.29-00.01.42:664][415]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.29-00.01.42:671][416]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.29-00.02.41:813][148]LogContentBrowser: Attempting asset rename: NewFolder -> Ambience
+[2023.07.29-00.02.41:813][148]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.29-00.03.01:277][493]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.29-00.03.01:288][493]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.29-00.03.01:294][493]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.29-00.03.01:315][495]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.29-00.03.09:712][286]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ambience_Manager_BP
+[2023.07.29-00.03.09:719][286]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.29-00.03.10:224][335]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.03.10:277][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.03.10:279][335]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.03.10:279][335]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP9CCC6E464628BC0CDA7D5ABCA4095AD4.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.03.10:288][335]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 10.2 sec)
+[2023.07.29-00.03.10:293][335]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.03.10:293][335]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.03.16:409][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.16:409][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.16:410][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.16:410][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.16:410][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.16:411][900]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.18:755][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.03.18:756][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.04.02:802][534]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.29-00.04.02:811][534]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.29-00.04.02:815][534]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.29-00.04.02:824][535]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.29-00.04.09:984][208]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ambience_Player_BP
+[2023.07.29-00.04.09:990][208]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.29-00.04.10:288][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.04.10:347][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Player_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Player_BP.uasset" SILENT=true
+[2023.07.29-00.04.10:349][237]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Player_BP
+[2023.07.29-00.04.10:349][237]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Player_BP022273984235A619BD102B9FD026920D.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Player_BP.uasset'
+[2023.07.29-00.04.10:358][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 10.3 sec)
+[2023.07.29-00.04.10:363][237]AssetCheck: New page: Asset Save: Ambience_Player_BP
+[2023.07.29-00.04.10:363][237]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Player_BP.Ambience_Player_BP
+[2023.07.29-00.04.11:349][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ben_Lusted/Ambience/Ambience_Player_BP.Ambience_Player_BP
+[2023.07.29-00.04.11:349][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.29-00.04.11:349][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.29-00.04.11:489][320]LogViewport: Scene viewport resized to 1011x592, mode Windowed.
+[2023.07.29-00.04.11:526][321]LogViewport: Scene viewport resized to 1011x587, mode Windowed.
+[2023.07.29-00.04.16:291][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.07.29-00.04.16:296][693]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.04.16:343][693]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to Window : Ambience_Player_BP .
+[2023.07.29-00.04.16:349][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Player_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Player_BP.uasset" SILENT=true
+[2023.07.29-00.04.16:352][693]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Player_BP
+[2023.07.29-00.04.16:352][693]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Player_BPC6DBD82948C225D67CAD248594F7472B.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Player_BP.uasset'
+[2023.07.29-00.04.16:359][693]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 10.3 sec)
+[2023.07.29-00.04.16:364][693]AssetCheck: New page: Asset Save: Ambience_Player_BP
+[2023.07.29-00.04.16:364][693]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Player_BP.Ambience_Player_BP
+[2023.07.29-00.04.18:086][832]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.04.19:430][939]BlueprintLog: New page: Compile Ambience_Player_BP
+[2023.07.29-00.04.19:464][939]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.04.19:590][945]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.07.29-00.04.23:130][234]LogSlate: Window 'Ambience_Player_BP' being destroyed
+[2023.07.29-00.04.23:136][234]LogSlate: Window 'Ambience_Player_BP' being destroyed
+[2023.07.29-00.04.23:140][234]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-00.04.23:140][234]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.29-00.04.27:496][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.07.29-00.04.28:515][638]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.29-00.04.28:559][638]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+	Asset Type: Blueprint
+	Asset Name: /Game/Ben_Lusted/Ambience/Ambience_Player_BP.Ambience_Player_BP
+	Asset Type: Blueprint
+[2023.07.29-00.04.28:845][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.04.28:909][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.04.28:929][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.07.29-00.04.28:948][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.29-00.21.18:164][184]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.07.29-00.21.18:172][184]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.07.29-00.21.18:177][184]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.07.29-00.21.18:193][186]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.07.29-00.21.23:833][729]LogContentBrowser: Attempting asset rename: NewBlueprint -> Ambience_Manager_BP
+[2023.07.29-00.21.23:839][729]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.07.29-00.21.25:390][878]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.21.25:391][878]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.29-00.21.25:391][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.29-00.21.25:536][878]LogViewport: Scene viewport resized to 1011x589, mode Windowed.
+[2023.07.29-00.21.25:573][879]LogViewport: Scene viewport resized to 1011x587, mode Windowed.
+[2023.07.29-00.21.25:943][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.07.29-00.21.25:946][904]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.21.26:000][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.21.26:003][904]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.21.26:003][904]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPADEED3294E793F1E241EEDBCE7A45F07.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.21.26:013][904]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 10.4 sec)
+[2023.07.29-00.21.26:017][904]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.21.26:017][904]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.21.27:110][986]LogViewport: Scene viewport resized to 1008x605, mode Windowed.
+[2023.07.29-00.21.27:136][987]LogViewport: Scene viewport resized to 1168x723, mode Windowed.
+[2023.07.29-00.21.27:457][ 17]LogSlate: Window 'Ambience_Manager_BP' being destroyed
+[2023.07.29-00.21.27:464][ 17]LogViewport: Scene viewport resized to 1168x765, mode Windowed.
+[2023.07.29-00.21.27:488][ 18]LogViewport: Scene viewport resized to 1168x758, mode Windowed.
+[2023.07.29-00.21.27:511][ 19]LogViewport: Scene viewport resized to 1168x751, mode Windowed.
+[2023.07.29-00.21.27:536][ 20]LogViewport: Scene viewport resized to 1168x744, mode Windowed.
+[2023.07.29-00.21.27:561][ 21]LogViewport: Scene viewport resized to 1168x736, mode Windowed.
+[2023.07.29-00.21.27:587][ 22]LogViewport: Scene viewport resized to 1168x728, mode Windowed.
+[2023.07.29-00.21.27:610][ 23]LogViewport: Scene viewport resized to 1168x723, mode Windowed.
+[2023.07.29-00.21.27:905][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.21.32:925][606]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.07.29-00.21.32:960][606]LogContentBrowser: Creating deferred item: NewFolder
+[2023.07.29-00.21.32:968][607]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.07.29-00.21.37:380][136]LogContentBrowser: Attempting asset rename: NewFolder -> Enums
+[2023.07.29-00.21.37:380][136]LogContentBrowser: End creating deferred item NewFolder
+[2023.07.29-00.21.42:211][640]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.07.29-00.21.42:220][640]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.07.29-00.21.42:238][642]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.07.29-00.21.48:625][409]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> Biome_Enum
+[2023.07.29-00.21.48:626][409]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.07.29-00.21.48:932][445]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.21.48:969][445]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Biome_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Biome_Enum.uasset" SILENT=true
+[2023.07.29-00.21.48:969][445]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Biome_Enum
+[2023.07.29-00.21.48:970][445]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Biome_Enum85BD93C3440C83FDD37CC7B75C5E0F59.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Biome_Enum.uasset'
+[2023.07.29-00.21.48:975][445]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 10.4 sec)
+[2023.07.29-00.21.48:981][445]AssetCheck: New page: Asset Save: Biome_Enum
+[2023.07.29-00.21.48:981][445]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Biome_Enum.Biome_Enum
+[2023.07.29-00.21.50:480][624]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/_Example/Enums/Biome_Enum.Biome_Enum
+[2023.07.29-00.22.31:115][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.07.29-00.22.31:118][492]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.22.31:171][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Biome_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Biome_Enum.uasset" SILENT=true
+[2023.07.29-00.22.31:172][492]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Biome_Enum
+[2023.07.29-00.22.31:172][492]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Biome_Enum9C6C306F455411938DDC688F5457B0AC.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Biome_Enum.uasset'
+[2023.07.29-00.22.31:177][492]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 10.5 sec)
+[2023.07.29-00.22.31:185][492]AssetCheck: New page: Asset Save: Biome_Enum
+[2023.07.29-00.22.31:185][492]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Biome_Enum.Biome_Enum
+[2023.07.29-00.22.37:802][185]LogContentBrowser: Attempting asset rename: Biome_Enum -> Area_Enum
+[2023.07.29-00.22.37:823][185]LogMetaData: Removing '/Game/_Example/Enums/Area_Enum.Area_Enum' ref from Metadata '/Game/_Example/Enums/Biome_Enum.PackageMetaData'
+[2023.07.29-00.22.37:823][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.22.37:873][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Area_Enum.uasset" SILENT=true
+[2023.07.29-00.22.37:874][185]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Area_Enum
+[2023.07.29-00.22.37:874][185]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Area_Enum12DBD6FB4EE3DF4E51BA578EF97E431B.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Area_Enum.uasset'
+[2023.07.29-00.22.37:880][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 10.5 sec)
+[2023.07.29-00.22.37:910][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.07.29-00.22.37:931][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.22.37:950][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.29-00.22.37:956][185]AssetCheck: New page: Asset Save: Area_Enum
+[2023.07.29-00.22.37:956][185]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Area_Enum.Area_Enum
+[2023.07.29-00.22.44:569][834]LogContentBrowser: Attempting asset rename: Area_Enum -> Enviornment_Area_Enum
+[2023.07.29-00.22.44:589][834]LogMetaData: Removing '/Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum' ref from Metadata '/Game/_Example/Enums/Area_Enum.PackageMetaData'
+[2023.07.29-00.22.44:589][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.22.44:640][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.22.44:641][834]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.22.44:641][834]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum76BA38D242886E76BADEA3AA8E98B588.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.22.44:646][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 10.6 sec)
+[2023.07.29-00.22.44:677][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.22.44:697][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.07.29-00.22.44:717][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.07.29-00.22.44:722][834]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.22.44:722][834]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.23.10:053][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.23.10:056][817]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.23.10:109][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.23.10:110][817]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.23.10:110][817]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum47C45D80499ED17414B407B109C8F3F3.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.23.10:116][817]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 10.7 sec)
+[2023.07.29-00.23.10:124][817]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.23.10:124][817]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.23.43:656][829]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.23.43:658][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.23.43:713][829]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.23.43:714][829]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.23.43:714][829]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum65B653744E3070286B1119AE6BC82D07.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.23.43:721][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 10.7 sec)
+[2023.07.29-00.23.43:728][829]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.23.43:728][829]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.23.45:142][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.23.50:200][600]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.23.50:203][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.23.50:261][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.23.50:261][600]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.23.50:262][600]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum24C213774EDC437416C35FBD2AC12EBE.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.23.50:267][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 10.8 sec)
+[2023.07.29-00.23.50:273][600]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.23.50:273][600]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.23.52:337][844]LogViewport: Scene viewport resized to 1168x765, mode Windowed.
+[2023.07.29-00.23.52:358][845]LogViewport: Scene viewport resized to 1168x753, mode Windowed.
+[2023.07.29-00.23.52:417][846]LogViewport: Scene viewport resized to 1168x736, mode Windowed.
+[2023.07.29-00.23.52:441][847]LogViewport: Scene viewport resized to 1168x728, mode Windowed.
+[2023.07.29-00.23.52:464][848]LogViewport: Scene viewport resized to 1168x723, mode Windowed.
+[2023.07.29-00.23.58:117][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.29-00.23.58:120][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.23.58:195][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.23.58:198][507]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.23.58:198][507]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPF95F46494710208BCA9ABCB2CB017F33.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.23.58:204][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 10.9 sec)
+[2023.07.29-00.23.58:210][507]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.23.58:210][507]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.25.14:353][171]LogWindows: LaunchURL https://docs.unrealengine.com/5.2/en/Engine/Blueprints?utm_source=editor&utm_medium=docs&utm_campaign=help_menu_asset
+[2023.07.29-00.25.49:158][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.25.49:162][  5]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.25.49:218][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.25.49:220][  5]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.25.49:221][  5]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP655C2CDE4A42F692E615468476C46BBA.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.25.49:227][  5]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 10.9 sec)
+[2023.07.29-00.25.49:235][  5]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.25.49:235][  5]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.25.51:677][293]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.25.54:207][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.26.21:772][750]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.07.29-00.26.22:270][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.Quinn_calf_l_anim
+[2023.07.29-00.26.22:276][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.Quinn_calf_r_anim
+[2023.07.29-00.26.22:283][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.Quinn_clavicle_l_anim
+[2023.07.29-00.26.22:291][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.Quinn_clavicle_r_anim
+[2023.07.29-00.26.22:299][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.Quinn_foot_l_anim
+[2023.07.29-00.26.22:308][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.Quinn_foot_r_anim
+[2023.07.29-00.26.22:317][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.Quinn_hand_l_anim
+[2023.07.29-00.26.22:325][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.Quinn_hand_r_anim
+[2023.07.29-00.26.22:333][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.Quinn_lowerarm_l_anim
+[2023.07.29-00.26.22:341][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.Quinn_lowerarm_r_anim
+[2023.07.29-00.26.22:350][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.Quinn_thigh_l_anim
+[2023.07.29-00.26.22:358][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.Quinn_thigh_r_anim
+[2023.07.29-00.26.22:367][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.Quinn_upperarm_l_anim
+[2023.07.29-00.26.22:376][752]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.Quinn_upperarm_r_anim
+[2023.07.29-00.26.22:432][752]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2023.07.29-00.27.31:149][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2023.07.29-00.27.34:687][814]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.27.36:517][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.27.36:576][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.27.36:577][ 21]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.27.36:577][ 21]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum164E41A24EC1E162D68D36A325831429.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.27.36:583][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 11.0 sec)
+[2023.07.29-00.27.36:590][ 21]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.27.36:590][ 21]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.27.37:406][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.07.29-00.27.57:610][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.27.57:613][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.27.57:661][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.27.57:661][505]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.27.57:662][505]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_EnumDA593D1E4C917DFFF872E39FD783A741.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.27.57:669][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 11.1 sec)
+[2023.07.29-00.27.57:677][505]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.27.57:677][505]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.28.01:113][916]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.28.01:144][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.28.01:500][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.29-00.29.06:398][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.07.29-00.29.06:400][581]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.29.06:450][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.29.06:452][581]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.29.06:452][581]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP38116DB940C03F70DED431B62DC21070.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.29.06:460][581]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 11.1 sec)
+[2023.07.29-00.29.06:466][581]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.29.06:466][581]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.29.11:303][ 50]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.07.29-00.29.11:311][ 50]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.07.29-00.29.11:325][ 51]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.07.29-00.29.11:704][ 97]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> NewUserDefinedStruct
+[2023.07.29-00.29.11:720][ 97]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.07.29-00.29.12:278][162]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/_Example/Enums/NewUserDefinedStruct.NewUserDefinedStruct
+[2023.07.29-00.29.17:240][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.29-00.29.18:034][731]LogSlate: Window 'Delete Assets' being destroyed
+[2023.07.29-00.29.18:060][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.29.18:081][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.29.18:102][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.29.19:275][867]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.29.38:612][151]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.29.38:615][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.29.38:669][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Enviornment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.29.38:670][151]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Enviornment_Area_Enum
+[2023.07.29-00.29.38:670][151]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Enviornment_Area_Enum49FB504C4BDFD232A199E1A93342D613.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Enviornment_Area_Enum.uasset'
+[2023.07.29-00.29.38:676][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 11.2 sec)
+[2023.07.29-00.29.38:684][151]AssetCheck: New page: Asset Save: Enviornment_Area_Enum
+[2023.07.29-00.29.38:684][151]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Enviornment_Area_Enum.Enviornment_Area_Enum
+[2023.07.29-00.29.40:061][313]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.29.40:093][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.29.40:373][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.29-00.29.50:708][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.07.29-00.29.50:710][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.29.50:771][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.29.50:773][498]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.29.50:773][498]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP4A1D0805472D3BC21A54269CE7BD2706.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.29.50:780][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 11.2 sec)
+[2023.07.29-00.29.50:785][498]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.29.50:785][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.30.24:889][518]LogContentBrowser: Attempting asset rename: Enviornment_Area_Enum -> Environment_Area_Enum
+[2023.07.29-00.30.24:913][518]LogMetaData: Removing '/Game/_Example/Enums/Environment_Area_Enum.Environment_Area_Enum' ref from Metadata '/Game/_Example/Enums/Enviornment_Area_Enum.PackageMetaData'
+[2023.07.29-00.30.24:913][518]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.30.24:970][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.30.24:973][518]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.30.24:973][518]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP55B2A9AD4F705148ED0CC2B1FD3B4E45.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.30.24:974][518]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Environment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Environment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.30.24:975][518]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Environment_Area_Enum
+[2023.07.29-00.30.24:975][518]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Environment_Area_Enum834027E04685F004D615F7BC1381BCE5.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Environment_Area_Enum.uasset'
+[2023.07.29-00.30.24:986][518]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 11.3 sec)
+[2023.07.29-00.30.25:019][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.30.25:041][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.30.25:061][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.30.25:066][518]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.30.25:066][518]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.30.25:066][518]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Environment_Area_Enum.Environment_Area_Enum
+[2023.07.29-00.30.31:031][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.30.31:033][216]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.30.31:088][216]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.30.31:090][216]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.30.31:090][216]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP1F94E67A4BF4B728BB0095B43C7ED78D.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.30.31:097][216]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 11.4 sec)
+[2023.07.29-00.30.31:102][216]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.30.31:102][216]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.30.34:249][565]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.30.34:281][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.07.29-00.30.34:501][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.29-00.30.34:504][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.30.34:572][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.30.34:574][587]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.30.34:575][587]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP86CBB753420C6D426A463EA75807F7F6.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.30.34:582][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 11.5 sec)
+[2023.07.29-00.30.34:588][587]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.30.34:588][587]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.30.38:193][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.07.29-00.30.38:196][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.30.38:256][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.30.38:259][  7]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.30.38:259][  7]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP180339FE49C7DB8ACD77E68086F7B5F5.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.30.38:260][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Enums/Environment_Area_Enum" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Environment_Area_Enum.uasset" SILENT=true
+[2023.07.29-00.30.38:260][  7]LogSavePackage: Moving output files for package: /Game/_Example/Enums/Environment_Area_Enum
+[2023.07.29-00.30.38:260][  7]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Environment_Area_Enum66796A9047DA3DBC5D871B91BCF4DD19.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Enums/Environment_Area_Enum.uasset'
+[2023.07.29-00.30.38:269][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 11.5 sec)
+[2023.07.29-00.30.38:274][  7]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.30.38:274][  7]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.30.38:274][  7]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/_Example/Enums/Environment_Area_Enum.Environment_Area_Enum
+[2023.07.29-00.30.57:709][237]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.30.57:741][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.31.00:879][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.31.00:882][596]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.31.00:951][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.31.00:953][596]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.31.00:954][596]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP61515F17461D53365316259B56451580.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.31.00:962][596]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 11.6 sec)
+[2023.07.29-00.31.00:968][596]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.31.00:968][596]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.31.18:737][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.29-00.31.18:741][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.31.18:809][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.31.18:811][687]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.31.18:812][687]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP5193F8BC40B38269FE4A21A290A97AB9.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.31.18:817][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 11.7 sec)
+[2023.07.29-00.31.18:823][687]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.31.18:823][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.31.20:485][884]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.31.20:516][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.31.23:028][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.31.31:847][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.31.48:205][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.29-00.31.51:816][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.31.56:026][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.29-00.31.58:247][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.31.58:249][801]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.31.58:311][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.31.58:314][801]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.31.58:314][801]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP9C5CF42F4338A52E54B87F8E3638148A.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.31.58:322][801]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 11.8 sec)
+[2023.07.29-00.31.58:327][801]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.31.58:327][801]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.32.06:154][738]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.32.06:185][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.32.08:918][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.07.29-00.32.17:867][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.32.17:870][129]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.32.17:929][129]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.32.17:932][129]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.32.17:932][129]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP137BD1A34EF85464AAB892941199A6DC.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.32.17:939][129]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 11.8 sec)
+[2023.07.29-00.32.17:944][129]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.32.17:944][129]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.33.12:491][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.33.12:494][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.33.12:550][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.33.12:561][375]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.33.12:561][375]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP121B053048E8C39E2DD9A686FC9E6267.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.33.12:567][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 11.9 sec)
+[2023.07.29-00.33.12:573][375]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.33.12:573][375]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.33.20:307][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.07.29-00.33.20:310][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.33.20:365][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.33.20:368][268]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.33.20:368][268]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPF01E40E64075C1BE2EA412992F742F88.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.33.20:375][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 12.0 sec)
+[2023.07.29-00.33.20:381][268]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.33.20:381][268]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.33.43:672][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.07.29-00.33.43:675][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.33.43:736][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.33.43:739][ 28]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.33.43:739][ 28]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP512A0093481651BB8EDA2993E72B8830.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.33.43:745][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 12.0 sec)
+[2023.07.29-00.33.43:751][ 28]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.33.43:751][ 28]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.33.46:574][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.29-00.33.46:577][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.33.46:634][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.33.46:637][363]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.33.46:637][363]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP6D387FA841555B23FEAF4281D4101111.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.33.46:644][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 12.1 sec)
+[2023.07.29-00.33.46:649][363]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.33.46:649][363]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.33.59:416][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.33.59:420][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.33.59:487][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.33.59:489][830]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.33.59:489][830]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP0B527E3041B3D3A99A7E91A0FBDEAB37.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.33.59:496][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 12.2 sec)
+[2023.07.29-00.33.59:501][830]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.33.59:501][830]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.34.04:427][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.34.04:430][416]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.34.04:486][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.34.04:489][416]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.34.04:489][416]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP71D718374FC22EB8225E22B8B6E89DF1.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.34.04:496][416]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 12.3 sec)
+[2023.07.29-00.34.04:501][416]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.34.04:501][416]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.34.07:593][788]LogDerivedDataCache: C:/Users/luste/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:38.136 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 51973 files in 50944 folders with total size 5811 MiB.
+[2023.07.29-00.34.18:441][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.34.18:444][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.34.18:521][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.34.18:524][ 53]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.34.18:524][ 53]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP58F93F024657A5DAF79ED082A09EC3D3.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.34.18:531][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 12.3 sec)
+[2023.07.29-00.34.18:536][ 53]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.34.18:536][ 53]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.34.20:589][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.34.30:706][448]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.34.30:739][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.34.30:909][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.34.30:912][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.34.30:972][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.34.30:976][462]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.34.30:976][462]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP817B949E48B58E2BBB57429C693E4C48.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.34.30:983][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 12.4 sec)
+[2023.07.29-00.34.30:991][462]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.34.30:991][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.34.33:424][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.34.33:428][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.34.33:487][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.34.33:491][750]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.34.33:491][750]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP178A670847C2E95B76B8AFBD1359AB5E.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.34.33:500][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 12.5 sec)
+[2023.07.29-00.34.33:505][750]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.34.33:505][750]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.34.45:846][227]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.29-00.34.50:143][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.07.29-00.35.07:634][589]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.35.07:668][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.35.07:801][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.35.07:804][600]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.35.07:873][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.35.07:878][600]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.35.07:878][600]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPE14B89014B8FE77C0C8B739E7B27A34F.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.35.07:884][600]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms (total: 12.6 sec)
+[2023.07.29-00.35.07:891][600]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.35.07:891][600]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.35.49:432][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.07.29-00.35.49:435][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.35.49:493][517]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.35.49:498][517]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.35.49:498][517]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPFF3B3C8941DAA54E918136BC64BEA2A3.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.35.49:504][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 12.6 sec)
+[2023.07.29-00.35.49:510][517]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.35.49:510][517]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.35.51:529][757]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.35.51:531][757]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.35.51:576][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.35.51:581][757]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.35.51:581][757]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP122B2F5D49A8E30F0D49448AE648F3E9.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.35.51:590][757]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 12.7 sec)
+[2023.07.29-00.35.51:595][757]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.35.51:595][757]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.35.53:398][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.35.53:401][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.35.53:460][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.35.53:464][969]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.35.53:465][969]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP9BDBB436414453BBB9BDD1B69BF37445.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.35.53:472][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 12.8 sec)
+[2023.07.29-00.35.53:478][969]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.35.53:478][969]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.36.08:623][681]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.36.08:625][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.36.08:695][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.36.08:699][681]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.36.08:699][681]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP1C930F3148CD3D554EC5E8A8758E9E78.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.36.08:706][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 12.8 sec)
+[2023.07.29-00.36.08:711][681]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.36.08:711][681]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.36.12:782][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.36.17:756][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.36.53:692][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.36.53:695][917]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.36.53:732][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.36.53:737][917]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.36.53:737][917]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP55F1E5904F0DE1DA6BC312AD86FE0E1B.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.36.53:745][917]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 12.9 sec)
+[2023.07.29-00.36.53:750][917]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.36.53:750][917]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.37.08:562][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-00.37.08:565][576]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.37.08:615][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.37.08:620][576]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.37.08:621][576]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP61C3816A4C8DBF9631D4ECBDB490A60B.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.37.08:628][576]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 13.0 sec)
+[2023.07.29-00.37.08:634][576]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.37.08:634][576]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.37.22:221][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.37.22:224][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.37.22:302][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.37.22:307][199]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.37.22:307][199]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPF1511CAB44D6267CD70840855989C549.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.37.22:315][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 13.0 sec)
+[2023.07.29-00.37.22:322][199]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.37.22:322][199]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.37.27:219][781]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.37.27:267][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.37.27:272][781]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.37.27:272][781]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP3DD0A5F14ADD3A711A806FBE6260E869.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.37.27:279][781]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 13.1 sec)
+[2023.07.29-00.37.27:284][781]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.37.27:284][781]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.37.30:611][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.07.29-00.37.30:614][173]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.37.30:668][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.37.30:673][173]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.37.30:673][173]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPDCB5AB1B4AF1709B0DDD20A9D1CB37D3.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.37.30:680][173]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 13.2 sec)
+[2023.07.29-00.37.30:687][173]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.37.30:687][173]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.37.33:347][484]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.37.33:350][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.37.33:401][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.37.33:406][484]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.37.33:406][484]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP5B2301784396BDA380C372BDD3122344.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.37.33:413][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 13.2 sec)
+[2023.07.29-00.37.33:418][484]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.37.33:418][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.38.58:860][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.29-00.38.58:863][694]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.38.58:923][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.38.58:929][694]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.38.58:929][694]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP506A43B84D142855B3235AAD918AEB10.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.38.58:935][694]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 13.3 sec)
+[2023.07.29-00.38.58:943][694]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.38.58:943][694]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.39.18:272][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.07.29-00.39.19:844][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.29-00.39.19:847][192]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.39.19:910][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.39.19:916][192]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.39.19:917][192]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP8100B3C04A5C9141EA77D692DB152D12.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.39.19:922][192]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 13.4 sec)
+[2023.07.29-00.39.19:928][192]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.39.19:928][192]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.39.56:390][523]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.39.56:393][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.39.56:445][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.39.56:451][523]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.39.56:451][523]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPA3A789E14C14FDCE49974E93FBACE45E.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.39.56:459][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 13.4 sec)
+[2023.07.29-00.39.56:464][523]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.39.56:464][523]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.40.09:562][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.40.18:861][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.29-00.40.18:863][151]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.40.18:911][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.40.18:917][151]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.40.18:917][151]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPC9F730E94F4A77AFBA0C65868CB931EE.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.40.18:925][151]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 13.5 sec)
+[2023.07.29-00.40.18:931][151]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.40.18:931][151]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.40.34:212][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.40.45:058][247]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.40.45:093][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.29-00.40.45:219][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.07.29-00.40.45:222][252]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.40.45:299][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.40.45:304][252]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.40.45:304][252]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPD5DBBBDB492113F1EDD1FB87E0CFBE66.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.40.45:312][252]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 13.6 sec)
+[2023.07.29-00.40.45:319][252]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.40.45:319][252]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.05:246][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.41.05:249][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.05:299][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.05:304][624]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.05:305][624]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP9D0711CF4BC9CA8747FC97A7CC12F835.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.05:312][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 13.7 sec)
+[2023.07.29-00.41.05:317][624]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.05:317][624]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.09:720][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.41.22:280][582]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.41.22:283][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.22:332][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.22:338][582]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.22:338][582]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPD7144A45434D94B7B1677C88555FD525.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.22:346][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 13.7 sec)
+[2023.07.29-00.41.22:351][582]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.22:351][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.27:957][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.07.29-00.41.27:960][241]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.28:020][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.28:027][241]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.28:027][241]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP1F49F6404BC8E4A5FD4C96B6D8098D05.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.28:038][241]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 13.8 sec)
+[2023.07.29-00.41.28:046][241]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.28:046][241]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.40:781][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.07.29-00.41.40:784][739]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.40:835][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.40:841][739]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.40:841][739]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP1A724F7D422BDBAF35737BB3AB6D3F74.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.40:848][739]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 13.9 sec)
+[2023.07.29-00.41.40:853][739]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.40:853][739]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.45:866][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.41.45:869][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.45:919][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.45:924][325]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.45:925][325]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPBD34AED74ED22E7A70C2A29650F2C9B8.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.45:934][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 13.9 sec)
+[2023.07.29-00.41.45:940][325]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.45:940][325]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.48:137][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.41.58:063][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.41.58:065][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.41.58:103][744]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.41.58:109][744]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.41.58:109][744]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP2C92FA574184933B02160AB118451D01.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.41.58:118][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 14.0 sec)
+[2023.07.29-00.41.58:124][744]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.41.58:124][744]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.41.59:134][863]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.29-00.42.14:838][743]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.42.14:873][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.29-00.42.15:118][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.42.18:200][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.42.18:203][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.42.18:277][124]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.42.18:283][124]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.42.18:283][124]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP1B2F5D9B468B19F5FD8A32B59B1D31C0.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.42.18:293][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 14.1 sec)
+[2023.07.29-00.42.18:299][124]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.42.18:299][124]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.42.23:467][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.42.33:065][876]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.42.33:100][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.07.29-00.42.38:091][463]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.07.29-00.42.39:335][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.42.43:006][998]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:847][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:847][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:848][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:848][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:849][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:849][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:849][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:850][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:850][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.43:850][ 74]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:574][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:574][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:575][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:575][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:575][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:576][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:576][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:577][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:577][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.47:577][449]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:421][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:422][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:422][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:423][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:423][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:423][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:424][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:424][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:424][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.52:425][927]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:798][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:798][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:799][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:799][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:799][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:800][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:800][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:800][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:801][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.54:801][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.57:721][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.42.57:724][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.42.57:773][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.42.57:791][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.42.57:798][427]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.42.57:799][427]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_LevelA5494C31440E8C1FED3476873841F901.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.42.57:807][427]LogFileHelpers: Saving map 'Testing_Level' took 0.035
+[2023.07.29-00.42.57:814][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 14.2 sec)
+[2023.07.29-00.42.57:819][427]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-00.42.57:819][427]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.42.59:787][616]Cmd: DELETE
+[2023.07.29-00.42.59:787][616]Cmd: ACTOR DELETE
+[2023.07.29-00.42.59:791][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:791][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:791][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:792][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:792][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:793][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:793][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:793][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.42.59:794][616]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.01:630][793]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:465][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:465][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:466][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:466][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:466][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:467][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:467][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:467][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:468][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.02:468][868]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:181][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:181][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:181][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:182][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:182][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:182][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:183][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:183][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:183][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.04:184][ 33]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:411][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:411][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:412][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:412][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:412][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:413][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:413][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:414][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:414][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.07:415][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:448][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:448][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:449][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:449][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:449][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:450][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:450][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:451][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:451][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.11:451][730]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:249][812]Cmd: TRANSACTION UNDO
+[2023.07.29-00.43.12:249][812]LogEditorTransaction: Undo Rename Folder
+[2023.07.29-00.43.12:315][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:315][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:316][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:316][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:316][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:317][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:317][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:317][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:318][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:318][812]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.12:733][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.43.12:843][821]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.43.12:863][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.07.29-00.43.12:871][821]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.43.12:871][821]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level2A03EE224BFA0448EB0D58872B83907E.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.43.12:880][821]LogFileHelpers: Saving map 'Testing_Level' took 0.037
+[2023.07.29-00.43.12:891][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 14.3 sec)
+[2023.07.29-00.43.12:896][821]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-00.43.12:896][821]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.43.14:101][935]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.21:757][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.21:758][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.21:758][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.21:758][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.21:759][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.29:203][392]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.43.34:632][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP_C
+[2023.07.29-00.43.34:633][907]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP_C
+[2023.07.29-00.43.34:633][907]LogActorFactory: Actor Factory spawned Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP as actor: Ambience_Manager_BP_C /Game/_Example/Testing_Level.Testing_Level:PersistentLevel.Ambience_Manager_BP_C_0
+[2023.07.29-00.43.34:634][907]LogActorFactory: Actor Factory spawned Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP as actor: Ambience_Manager_BP_C /Game/_Example/Testing_Level.Testing_Level:PersistentLevel.Ambience_Manager_BP_C_0
+[2023.07.29-00.43.34:636][907]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.07.29-00.43.34:754][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP_C
+[2023.07.29-00.43.34:755][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP_C
+[2023.07.29-00.43.34:756][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP as actor: Ambience_Manager_BP_C /Game/_Example/Testing_Level.Testing_Level:PersistentLevel.Ambience_Manager_BP_C_1
+[2023.07.29-00.43.34:757][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP as actor: Ambience_Manager_BP_C /Game/_Example/Testing_Level.Testing_Level:PersistentLevel.Ambience_Manager_BP_C_1
+[2023.07.29-00.43.34:772][917]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.43.40:276][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.07.29-00.43.40:279][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.43.40:324][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.43.40:344][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.43.40:352][437]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.43.40:352][437]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_LevelDE2D77A24DAFD7BF915C54819D93F6E2.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.43.40:361][437]LogFileHelpers: Saving map 'Testing_Level' took 0.037
+[2023.07.29-00.43.40:370][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 14.4 sec)
+[2023.07.29-00.43.40:376][437]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-00.43.40:376][437]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.43.43:087][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.43.43:090][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.43.43:146][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.43.43:168][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.29-00.43.43:175][682]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.43.43:176][682]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_LevelF3E1F1B345E7CFA275F874A4C10F50E3.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.43.43:184][682]LogFileHelpers: Saving map 'Testing_Level' took 0.039
+[2023.07.29-00.43.43:191][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 14.5 sec)
+[2023.07.29-00.43.43:197][682]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-00.43.43:197][682]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.43.45:849][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.43.45:910][934]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.43.45:930][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.43.45:938][934]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.43.45:938][934]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level739986104534E4B4E73C8BB17CB8607A.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.43.45:947][934]LogFileHelpers: Saving map 'Testing_Level' took 0.037
+[2023.07.29-00.43.45:953][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 14.6 sec)
+[2023.07.29-00.43.45:959][934]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-00.43.45:959][934]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.49.30:555][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.07.29-00.49.30:558][579]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.49.30:616][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.49.30:622][579]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.49.30:622][579]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP230BC5BE4394738F068F1B8AD93CB103.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.49.30:629][579]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 14.7 sec)
+[2023.07.29-00.49.30:635][579]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.49.30:635][579]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.49.34:178][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-00.49.34:181][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.49.34:234][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.49.34:241][999]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.49.34:241][999]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP3400F5F34237E68EF210768DB6636CBE.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.49.34:250][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 14.8 sec)
+[2023.07.29-00.49.34:258][999]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.49.34:258][999]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.49.44:369][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2023.07.29-00.49.44:372][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.49.44:445][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.49.44:465][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.49.44:473][190]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.49.44:473][190]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_LevelDAFFEC484BF077179FCB269C533B6D2E.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.49.44:481][190]LogFileHelpers: Saving map 'Testing_Level' took 0.036
+[2023.07.29-00.49.44:481][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.49.44:487][190]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.49.44:487][190]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP05BB57284D691BCCF6344ABB75717917.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.49.44:494][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 14.9 sec)
+[2023.07.29-00.49.44:501][190]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.49.44:501][190]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.49.44:501][190]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.50.00:632][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-00.50.00:636][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.50.00:691][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.50.00:711][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.50.00:718][ 39]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.50.00:719][ 39]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level12E8ABDA4C07B04051C0ADA487D34E24.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.50.00:727][ 39]LogFileHelpers: Saving map 'Testing_Level' took 0.036
+[2023.07.29-00.50.00:727][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.50.00:733][ 39]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.50.00:733][ 39]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP9A3AA51A4AD176CD126C109F5322481D.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.50.00:739][ 39]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 15.0 sec)
+[2023.07.29-00.50.00:747][ 39]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.50.00:747][ 39]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.50.00:747][ 39]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.50.05:323][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.50.22:624][566]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.07.29-00.50.22:627][566]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.50.22:703][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.50.22:709][566]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.50.22:709][566]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPAAA5C8B941E38347809102B04E23251E.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.50.22:717][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 15.1 sec)
+[2023.07.29-00.50.22:722][566]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-00.50.22:722][566]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.50.26:812][ 25]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.50.26:851][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.07.29-00.50.26:972][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.50.26:976][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.50.27:036][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.50.27:057][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.07.29-00.50.27:064][ 31]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.50.27:064][ 31]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level51C2573945FDEBA0B5AE01BFEA3CA3D0.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.50.27:072][ 31]LogFileHelpers: Saving map 'Testing_Level' took 0.036
+[2023.07.29-00.50.27:073][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.50.27:079][ 31]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.50.27:079][ 31]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPA2E5031D4FB158C51A7A3A8B3E32A0C7.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.50.27:086][ 31]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 15.2 sec)
+[2023.07.29-00.50.27:093][ 31]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.50.27:093][ 31]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.50.27:093][ 31]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.50.30:855][451]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-00.50.30:893][451]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.07.29-00.50.31:042][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.07.29-00.50.31:045][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-00.50.31:120][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-00.50.31:140][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.07.29-00.50.31:148][463]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-00.50.31:148][463]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level88B6EC95437E923961F1ECAA81045654.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-00.50.31:156][463]LogFileHelpers: Saving map 'Testing_Level' took 0.036
+[2023.07.29-00.50.31:157][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-00.50.31:163][463]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-00.50.31:163][463]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BP60F3247B41F686A0661DE2A51B6966F2.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-00.50.31:170][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 15.3 sec)
+[2023.07.29-00.50.31:177][463]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-00.50.31:177][463]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-00.50.31:177][463]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-00.50.35:648][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.07.29-00.50.37:941][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.07.29-00.50.42:512][808]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.07.29-00.50.44:077][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-00.57.11:464][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.07.29-00.57.13:706][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-00.58.01:332][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.07.29-01.00.16:629][699]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.07.29-01.00.16:629][699]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.07.29-01.01.50:973][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.07.29-01.01.52:275][569]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.07.29-01.02.06:933][320]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.07.29-01.02.08:809][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.07.29-01.02.08:813][540]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-01.02.08:869][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-01.02.08:890][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-01.02.08:899][540]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-01.02.08:899][540]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_LevelEF98C8A84B5AECD3D881E68B3C095491.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-01.02.08:908][540]LogFileHelpers: Saving map 'Testing_Level' took 0.039
+[2023.07.29-01.02.08:908][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-01.02.08:915][540]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-01.02.08:915][540]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPE4C4CC0E43FEE41F528854B99B21FBD0.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-01.02.08:923][540]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 15.4 sec)
+[2023.07.29-01.02.08:930][540]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.29-01.02.08:930][540]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-01.02.08:930][540]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-01.02.09:753][637]BlueprintLog: New page: Compile Ambience_Manager_BP
+[2023.07.29-01.02.09:794][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.29-01.02.09:914][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.07.29-01.02.09:917][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-01.02.09:970][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Example/Testing_Level" FILE="E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.29-01.02.09:991][641]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.07.29-01.02.09:999][641]LogSavePackage: Moving output files for package: /Game/_Example/Testing_Level
+[2023.07.29-01.02.09:999][641]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Testing_Level9CC0ADF3425C5DAFE86A17816F57C42D.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/_Example/Testing_Level.umap'
+[2023.07.29-01.02.10:007][641]LogFileHelpers: Saving map 'Testing_Level' took 0.037
+[2023.07.29-01.02.10:015][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 15.5 sec)
+[2023.07.29-01.02.10:021][641]AssetCheck: New page: Asset Save: Testing_Level
+[2023.07.29-01.02.10:021][641]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Example/Testing_Level.Testing_Level
+[2023.07.29-01.02.13:907][104]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.07.29-01.02.13:910][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.29-01.02.13:967][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ben_Lusted/Ambience/Ambience_Manager_BP" FILE="E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset" SILENT=true
+[2023.07.29-01.02.13:973][104]LogSavePackage: Moving output files for package: /Game/Ben_Lusted/Ambience/Ambience_Manager_BP
+[2023.07.29-01.02.13:973][104]LogSavePackage: Moving 'E:/GameAudioTools/GameAudioTools/Saved/Ambience_Manager_BPAFC2B83345DB9E7458721E8951353346.tmp' to 'E:/GameAudioTools/GameAudioTools/Content/Ben_Lusted/Ambience/Ambience_Manager_BP.uasset'
+[2023.07.29-01.02.13:982][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 15.6 sec)
+[2023.07.29-01.02.13:987][104]AssetCheck: New page: Asset Save: Ambience_Manager_BP
+[2023.07.29-01.02.13:988][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Ben_Lusted/Ambience/Ambience_Manager_BP.Ambience_Manager_BP
+[2023.07.29-01.02.21:510][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.07.29-01.02.22:491][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.29-01.02.22:493][111]LogStall: Shutdown...
+[2023.07.29-01.02.22:495][111]LogStall: Shutdown complete.
+[2023.07.29-01.02.22:557][111]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.22:558][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.29-01.02.22:617][111]LogSlate: Window 'GameAudioTools - Unreal Editor' being destroyed
+[2023.07.29-01.02.22:735][112]Cmd: QUIT_EDITOR
+[2023.07.29-01.02.22:735][112]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.29-01.02.22:737][112]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.29-01.02.22:737][112]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.29-01.02.22:737][112]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.29-01.02.22:737][112]LogWorld: UWorld::CleanupWorld for Testing_Level, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.22:737][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.29-01.02.22:739][112]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.29-01.02.22:740][112]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.29-01.02.23:652][112]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.29-01.02.23:652][112]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.29-01.02.23:652][112]LogAudio: Display: Audio Device unregistered from world 'Testing_Level'.
+[2023.07.29-01.02.23:652][112]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.07.29-01.02.23:653][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.29-01.02.23:654][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.29-01.02.23:663][112]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.29-01.02.23:667][112]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.29-01.02.23:668][112]LogExit: Preparing to exit.
+[2023.07.29-01.02.23:708][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.23:720][112]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.29-01.02.24:904][112]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:906][112]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:909][112]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:912][112]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:915][112]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:917][112]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:920][112]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:922][112]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:925][112]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:928][112]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:931][112]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:937][112]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.07.29-01.02.24:987][112]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.07.29-01.02.24:995][112]LogExit: Editor shut down
+[2023.07.29-01.02.24:996][112]LogExit: Transaction tracking system shut down
+[2023.07.29-01.02.25:140][112]LogExit: Object subsystem successfully closed.
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: ================================================
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Total job queries 4, among them cache hits 0 (0.00%)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Tracking 4 distinct input hashes that result in 4 distinct outputs (100.00%)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: RAM used: 78.56 KiB of 1.60 GiB budget. Usage: 0.00%
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Shaders Compiled: 4
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100.00%)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Time job spent in pending queue: average 1.10 s, longest 2.23 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Job execution time: average 1.25 s, max 2.15 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Job life time (pending + execution): average 2.35 s, max 2.63
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.63 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Average processing rate: 1.52 jobs/sec
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Total thread time: 2.619 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Total thread preprocess time: 0.883 s
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Percentage time preprocessing: 33.71%
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Effective parallelization: 0.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Top 4 most expensive shader types by average time:
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: Top 4 shader types by total compile time:
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.64% of total time (compiled    1 times, average 1.04 sec, max 1.04 sec, min 1.04 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 31.94% of total time (compiled    1 times, average 0.84 sec, max 0.84 sec, min 0.84 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.35% of total time (compiled    1 times, average 0.43 sec, max 0.43 sec, min 0.43 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.07% of total time (compiled    1 times, average 0.32 sec, max 0.32 sec, min 0.32 sec)
+[2023.07.29-01.02.25:146][112]LogShaderCompilers: Display: ================================================
+[2023.07.29-01.02.25:159][112]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.07.29-01.02.25:173][112]LogVirtualization: UE::Virtualization was shutdown
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module SequencerWidgets (1025)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module PinnedCommandList (1023)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module SkeletonEditor (1021)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module AnimationEditor (1019)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1017)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module Voice (1015)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1013)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module AddContentDialog (1011)
+[2023.07.29-01.02.25:207][112]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1010)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1005)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module SceneOutliner (1003)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module StatusBar (1001)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (999)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (997)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module StatsViewer (995)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (993)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module AutomationWorker (991)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module PlanarCut (989)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module FractureEngine (987)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module CharacterAI (985)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module SmartSnapping (983)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (981)
+[2023.07.29-01.02.25:208][112]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (979)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (977)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (975)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (973)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (971)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (969)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module WebMMedia (967)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (965)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (963)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (961)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (959)
+[2023.07.29-01.02.25:209][112]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (957)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (955)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (953)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (951)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (949)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module WaveTableEditor (947)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (945)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module GooglePADEditor (943)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (941)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module SequenceRecorder (940)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (937)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (935)
+[2023.07.29-01.02.25:210][112]LogModuleManager: Shutting down and abandoning module IKRigEditor (933)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module ControlRigEditor (931)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module TextureAlignMode (929)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module BspMode (927)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module GeometryMode (925)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (923)
+[2023.07.29-01.02.25:211][112]LogModuleManager: Shutting down and abandoning module SessionServices (921)
+[2023.07.29-01.02.25:212][112]LogModuleManager: Shutting down and abandoning module MeshPaint (919)
+[2023.07.29-01.02.25:212][112]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (917)
+[2023.07.29-01.02.25:212][112]LogModuleManager: Shutting down and abandoning module PlacementMode (916)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module FoliageEdit (913)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module LandscapeEditor (911)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (909)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module ActorPickerMode (907)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module ViewportSnapping (905)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module ViewportInteraction (903)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module ClothPainter (901)
+[2023.07.29-01.02.25:213][112]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (900)
+[2023.07.29-01.02.25:214][112]LogModuleManager: Shutting down and abandoning module LogVisualizer (897)
+[2023.07.29-01.02.25:215][112]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (895)
+[2023.07.29-01.02.25:215][112]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (893)
+[2023.07.29-01.02.25:215][112]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (892)
+[2023.07.29-01.02.25:215][112]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (890)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (887)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (885)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (883)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (881)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (879)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (877)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module AnimationSettings (875)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (873)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module CSVtoSVG (871)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (869)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module EditorConfig (867)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module EditorFramework (865)
+[2023.07.29-01.02.25:849][112]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (863)
+[2023.07.29-01.02.25:851][112]LogModuleManager: Shutting down and abandoning module TraceInsights (861)
+[2023.07.29-01.02.25:853][112]MemoryProfiler: Shutdown
+[2023.07.29-01.02.25:854][112]NetworkingProfiler: Shutdown
+[2023.07.29-01.02.25:854][112]LoadingProfiler: Shutdown
+[2023.07.29-01.02.25:854][112]TimingProfiler: Shutdown
+[2023.07.29-01.02.25:856][112]LogModuleManager: Shutting down and abandoning module TraceServices (860)
+[2023.07.29-01.02.25:857][112]LogModuleManager: Shutting down and abandoning module TraceAnalysis (859)
+[2023.07.29-01.02.25:857][112]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (855)
+[2023.07.29-01.02.25:857][112]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (854)
+[2023.07.29-01.02.25:857][112]LogModuleManager: Shutting down and abandoning module InputBindingEditor (851)
+[2023.07.29-01.02.25:857][112]LogModuleManager: Shutting down and abandoning module MergeActors (849)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (847)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module LocalizationService (846)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module HardwareTargeting (843)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (841)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module UndoHistory (839)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module XmlParser (837)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module Blutility (835)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (833)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (832)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (829)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (828)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module SettingsEditor (825)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module ProjectLauncher (823)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module SessionFrontend (821)
+[2023.07.29-01.02.25:858][112]LogModuleManager: Shutting down and abandoning module ProfilerClient (819)
+[2023.07.29-01.02.25:859][112]LogModuleManager: Shutting down and abandoning module DeviceManager (817)
+[2023.07.29-01.02.25:859][112]LogModuleManager: Shutting down and abandoning module AutomationController (815)
+[2023.07.29-01.02.25:859][112]LogModuleManager: Shutting down and abandoning module AutomationWindow (813)
+[2023.07.29-01.02.25:860][112]LogModuleManager: Shutting down and abandoning module Layers (811)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (809)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module DetailCustomizations (807)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module PackagesDialog (805)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (803)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module Persona (801)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (800)
+[2023.07.29-01.02.25:861][112]LogModuleManager: Shutting down and abandoning module Kismet (797)
+[2023.07.29-01.02.25:869][112]LogModuleManager: Shutting down and abandoning module KismetWidgets (796)
+[2023.07.29-01.02.25:869][112]LogModuleManager: Shutting down and abandoning module GraphEditor (793)
+[2023.07.29-01.02.25:869][112]LogModuleManager: Shutting down and abandoning module StructViewer (791)
+[2023.07.29-01.02.25:869][112]LogModuleManager: Shutting down and abandoning module ClassViewer (789)
+[2023.07.29-01.02.25:871][112]LogModuleManager: Shutting down and abandoning module NaniteTools (787)
+[2023.07.29-01.02.25:871][112]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (785)
+[2023.07.29-01.02.25:871][112]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (783)
+[2023.07.29-01.02.25:871][112]LogModuleManager: Shutting down and abandoning module SourceControlWindows (781)
+[2023.07.29-01.02.25:872][112]LogModuleManager: Shutting down and abandoning module OutputLog (779)
+[2023.07.29-01.02.25:872][112]LogModuleManager: Shutting down and abandoning module Documentation (777)
+[2023.07.29-01.02.25:872][112]LogModuleManager: Shutting down and abandoning module LiveCoding (775)
+[2023.07.29-01.02.25:875][112]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (773)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (771)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module MovieScene (769)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (767)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (765)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (763)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AudioMixer (762)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AudioMixerCore (761)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module LauncherPlatform (757)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AnalyticsET (755)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module PortalServices (753)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module PortalRpc (751)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module MessagingRpc (749)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AIModule (747)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module GameplayDebugger (746)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module AITestSuite (744)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module NavigationSystem (742)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module DataLayerEditor (739)
+[2023.07.29-01.02.25:876][112]LogModuleManager: Shutting down and abandoning module EditorWidgets (738)
+[2023.07.29-01.02.25:877][112]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (735)
+[2023.07.29-01.02.25:877][112]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (733)
+[2023.07.29-01.02.25:877][112]LogModuleManager: Shutting down and abandoning module TypedElementFramework (731)
+[2023.07.29-01.02.25:877][112]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (729)
+[2023.07.29-01.02.25:885][112]LogModuleManager: Shutting down and abandoning module ProfilerService (727)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (725)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (723)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (721)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (719)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (717)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module TakesCore (715)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module MegascansPlugin (713)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module Bridge (711)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (709)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (707)
+[2023.07.29-01.02.26:049][112]LogModuleManager: Shutting down and abandoning module CollectionManager (706)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (703)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (701)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module LightMixer (699)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (697)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module UVEditorTools (695)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module UVEditor (693)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module PresetAsset (691)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (689)
+[2023.07.29-01.02.26:051][112]LogOpenImageDenoise: OIDN shutting down
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (687)
+[2023.07.29-01.02.26:051][112]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (685)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (683)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (681)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module MeshLODToolset (679)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (677)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (675)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (674)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (672)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (669)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (667)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (665)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (663)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module DataflowNodes (661)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (659)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module DataflowEditor (657)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module ChaosNiagara (655)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (653)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (651)
+[2023.07.29-01.02.26:052][112]LogModuleManager: Shutting down and abandoning module FractureEditor (649)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (647)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (645)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module AutomationUtils (643)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module BackChannel (641)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (639)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (637)
+[2023.07.29-01.02.26:053][112]LogModuleManager: Shutting down and abandoning module Paper2DEditor (635)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (633)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeTests (631)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module TemplateSequence (629)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (627)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module SequencerScripting (625)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (623)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (621)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (619)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangePipelines (617)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeExport (615)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeMessages (613)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeImport (611)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (609)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeNodes (607)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (605)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (603)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (601)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module InterchangeEditor (599)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (595)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module MediaPlate (593)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module MediaCompositing (591)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module ImgMedia (589)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module AlembicImporter (587)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module AlembicLibrary (586)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (583)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (581)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module UObjectPlugin (579)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (577)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (575)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module PluginUtils (573)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module GitSourceControl (571)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module DumpGPUServices (569)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (567)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (565)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module SynthesisEditor (563)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module ResonanceAudio (561)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (559)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (557)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (555)
+[2023.07.29-01.02.26:055][112]LogModuleManager: Shutting down and abandoning module ModelingOperators (553)
+[2023.07.29-01.02.26:056][112]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (551)
+[2023.07.29-01.02.26:056][112]LogModuleManager: Shutting down and abandoning module ModelingComponents (549)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module GeometryFramework (548)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (545)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module MeshModelingTools (543)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (541)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module InputDebugging (539)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module GooglePAD (537)
+[2023.07.29-01.02.26:057][112]LogModuleManager: Shutting down and abandoning module DynamicMesh (535)
+[2023.07.29-01.02.26:058][112]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (533)
+[2023.07.29-01.02.26:058][112]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (531)
+[2023.07.29-01.02.26:058][112]LogModuleManager: Shutting down and abandoning module GeometryCache (529)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (527)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (525)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (523)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AudioCapture (521)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (520)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AssetTags (517)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (515)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AppleImageUtils (513)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (511)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module AndroidPermission (509)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (507)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (505)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (503)
+[2023.07.29-01.02.26:059][112]LogModuleManager: Shutting down and abandoning module VariantManager (501)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (500)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (497)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (495)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (493)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module ControlRigSpline (491)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (489)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module TakeSequencer (487)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module TakeMovieScene (485)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (483)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module StylusInput (481)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (479)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module PluginBrowser (477)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (475)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (473)
+[2023.07.29-01.02.26:060][112]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (471)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (469)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module GLTFImporter (467)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module GLTFCore (465)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (463)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module EditorDebugTools (461)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module CurveEditorTools (459)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (457)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module CryptoKeys (455)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module ChangelistReview (453)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (451)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (449)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module TraceUtilities (447)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (445)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (443)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module InputEditor (441)
+[2023.07.29-01.02.26:061][112]LogModuleManager: Shutting down and abandoning module BlueprintGraph (440)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (437)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module PBIK (435)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module FullBodyIK (433)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (431)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module TakeRecorder (430)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module ChaosCaching (427)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module Paper2D (425)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module ActorSequence (423)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (421)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (419)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (417)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AnimationSharing (415)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module Synthesis (413)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module SoundFields (411)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module SignificanceManager (409)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (407)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (405)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundEditor (403)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AudioWidgets (402)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (401)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (397)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundEngine (395)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module WaveTable (394)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (392)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (389)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (387)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (385)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (383)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (381)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (379)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (377)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (376)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (373)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module CableComponent (371)
+[2023.07.29-01.02.26:062][112]LogModuleManager: Shutting down and abandoning module UdpMessaging (369)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (367)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module Niagara (365)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module SignalProcessing (364)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module NiagaraEditor (362)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module NiagaraCore (359)
+[2023.07.29-01.02.26:164][112]LogModuleManager: Shutting down and abandoning module TcpMessaging (357)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module GameplayCameras (355)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (353)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module IKRig (351)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (349)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module ControlRig (347)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module Constraints (346)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module LevelSequence (344)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module AnimationData (341)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (339)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (337)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module FacialAnimation (335)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module DataValidation (333)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (331)
+[2023.07.29-01.02.26:265][112]LogModuleManager: Shutting down and abandoning module LevelEditor (330)
+[2023.07.29-01.02.26:275][112]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (329)
+[2023.07.29-01.02.26:275][112]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (327)
+[2023.07.29-01.02.26:275][112]LogModuleManager: Shutting down and abandoning module MainFrame (325)
+[2023.07.29-01.02.26:275][112]LogModuleManager: Shutting down and abandoning module HotReload (324)
+[2023.07.29-01.02.26:276][112]LogModuleManager: Shutting down and abandoning module ContentBrowser (320)
+[2023.07.29-01.02.26:276][112]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2023.07.29-01.02.26:276][112]LogModuleManager: Shutting down and abandoning module ContentBrowserData (317)
+[2023.07.29-01.02.26:276][112]LogModuleManager: Shutting down and abandoning module TreeMap (314)
+[2023.07.29-01.02.26:276][112]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (311)
+[2023.07.29-01.02.26:277][112]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (309)
+[2023.07.29-01.02.26:277][112]LogModuleManager: Shutting down and abandoning module EnhancedInput (307)
+[2023.07.29-01.02.26:277][112]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (305)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (303)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module AndroidFileServer (301)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (299)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module PacketHandler (297)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (295)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module AnimGraph (293)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module TimeManagement (291)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module AnimationDataController (289)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (287)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (285)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module MediaAssets (283)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module Overlay (281)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module OverlayEditor (280)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module VREditor (277)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module StringTableEditor (275)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (273)
+[2023.07.29-01.02.26:280][112]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (271)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module FunctionalTesting (269)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (267)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (266)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module UMG (263)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module UMGEditor (262)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module EditorStyle (257)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module SlateReflector (255)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module Slate (253)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module SlateCore (251)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (249)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (247)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module UnrealEd (245)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module MRMesh (243)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module Messaging (241)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (239)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (237)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module Networking (235)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module Core (233)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module AssetDefinition (231)
+[2023.07.29-01.02.26:283][112]LogModuleManager: Shutting down and abandoning module MovieSceneTools (229)
+[2023.07.29-01.02.26:284][112]LogModuleManager: Shutting down and abandoning module CurveEditor (228)
+[2023.07.29-01.02.26:285][112]LogModuleManager: Shutting down and abandoning module Sequencer (226)
+[2023.07.29-01.02.26:286][112]LogModuleManager: Shutting down and abandoning module KismetCompiler (223)
+[2023.07.29-01.02.26:286][112]LogModuleManager: Shutting down and abandoning module MeshBuilder (221)
+[2023.07.29-01.02.26:286][112]LogModuleManager: Shutting down and abandoning module NaniteBuilder (219)
+[2023.07.29-01.02.26:286][112]LogModuleManager: Shutting down and abandoning module MeshUtilities (217)
+[2023.07.29-01.02.26:287][112]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (216)
+[2023.07.29-01.02.26:287][112]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (215)
+[2023.07.29-01.02.26:287][112]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (214)
+[2023.07.29-01.02.26:287][112]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (212)
+[2023.07.29-01.02.26:287][112]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (210)
+[2023.07.29-01.02.26:289][112]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (208)
+[2023.07.29-01.02.26:289][112]LogModuleManager: Shutting down and abandoning module MaterialBaking (204)
+[2023.07.29-01.02.26:289][112]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (201)
+[2023.07.29-01.02.26:299][112]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (197)
+[2023.07.29-01.02.26:299][112]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (195)
+[2023.07.29-01.02.26:299][112]LogModuleManager: Shutting down and abandoning module DerivedDataCache (193)
+[2023.07.29-01.02.26:301][112]LogModuleManager: Shutting down and abandoning module TargetPlatform (191)
+[2023.07.29-01.02.26:301][112]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (190)
+[2023.07.29-01.02.26:301][112]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (188)
+[2023.07.29-01.02.26:301][112]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (186)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (184)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (182)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module AudioFormatBink (180)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (177)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (175)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (173)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (171)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (167)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (165)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (163)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (161)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (159)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormat (157)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module ImageWrapper (156)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (154)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (152)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (150)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (148)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (146)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (144)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module TurnkeySupport (141)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module InputCore (138)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module Settings (136)
+[2023.07.29-01.02.26:302][112]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (134)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (132)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (131)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module Chaos (128)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module GeometryCore (127)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (124)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (123)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module AVEncoder (122)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module D3D12RHI (118)
+[2023.07.29-01.02.26:303][112]LogModuleManager: Shutting down and abandoning module ChaosCloth (116)
+[2023.07.29-01.02.26:304][112]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (114)
+[2023.07.29-01.02.26:304][112]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (112)
+[2023.07.29-01.02.26:304][112]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (110)
+[2023.07.29-01.02.26:305][112]LogModuleManager: Shutting down and abandoning module XMPP (105)
+[2023.07.29-01.02.26:305][112]LogModuleManager: Shutting down and abandoning module WebSockets (104)
+[2023.07.29-01.02.26:335][112]LogModuleManager: Shutting down and abandoning module HTTP (101)
+[2023.07.29-01.02.26:335][112]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.07.29-01.02.26:335][112]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B404543E9-40DA-FE9A-6DE9-91B88544C8E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.2.1-26001984%2B%2B%2BUE5%2BRelease-5.2&UserID=8dce429847bf97bec28f1fbf625cd869%7C97dbbd2b09ce490286421e89b00b91e1%7C422d3c3d-e41a-448e-ac98-6a588373c9fe&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.07.29-01.02.26:344][112]LogModuleManager: Shutting down and abandoning module SSL (100)
+[2023.07.29-01.02.26:345][112]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (96)
+[2023.07.29-01.02.26:345][112]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (94)
+[2023.07.29-01.02.26:345][112]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (92)
+[2023.07.29-01.02.26:345][112]LogModuleManager: Shutting down and abandoning module WmfMedia (90)
+[2023.07.29-01.02.26:348][112]LogModuleManager: Shutting down and abandoning module Media (89)
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (86)
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (84)
+[2023.07.29-01.02.26:349][112]RenderDocPlugin: plugin has been unloaded.
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module PixWinPlugin (82)
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (80)
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2023.07.29-01.02.26:349][112]LogModuleManager: Shutting down and abandoning module ChunkDownloader (76)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (74)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module NiagaraShader (72)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (70)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module VariantManagerContent (68)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module GLTFExporter (66)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module DatasmithContent (64)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module AISupportModule (62)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module DesktopPlatform (60)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (58)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (56)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (54)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PlatformCrypto (52)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (50)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.07.29-01.02.26:350][112]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.07.29-01.02.26:350][112]LogXGEController: Cleaning working directory: C:/Users/luste/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.07.29-01.02.26:351][112]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.07.29-01.02.26:351][112]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.07.29-01.02.26:351][112]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.07.29-01.02.26:351][112]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.07.29-01.02.26:351][112]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.07.29-01.02.26:352][112]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.07.29-01.02.26:352][112]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.07.29-01.02.26:352][112]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.07.29-01.02.26:352][112]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.07.29-01.02.26:352][112]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.07.29-01.02.26:353][112]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.07.29-01.02.27:047][112]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.07.29-01.02.27:066][112]LogExit: Exiting.
+[2023.07.29-01.02.27:089][112]Log file closed, 07/28/23 19:02:27
