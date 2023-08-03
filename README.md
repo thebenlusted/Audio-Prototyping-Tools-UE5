@@ -1,4 +1,7 @@
 # GameAudioTools
+
+ *This is a work in progress. Some tools may be unfinished or contain bugs. I am actively updating this and problems will be addressed ASAP*
+
  This is a collection of audio tools I have created using Unreal Engine 5.2.
 
  The goal is to create a group of Blueprints, audio asset examples, and assets to quickly implement audio into a game. 
